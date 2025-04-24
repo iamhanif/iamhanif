@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Hanif
 - 👀 I’m interested in frontend development (React.js & Next.js)
-- 🌱 I’m currently exploring Next.js
+- 🌱 I’m currently exploring Backend (#Go)
 - 📫 How to reach me email: iamhanif101@gmail.com || WhatsApp: https://wa.me/1607150462
 
 <!---
